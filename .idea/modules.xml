@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BTVN.iml" filepath="$PROJECT_DIR$/.idea/BTVN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/Code_Gym.iml" filepath="$PROJECT_DIR$/Code_Gym/Code_Gym.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/Colle_Framwork/Colle_Framwork.iml" filepath="$PROJECT_DIR$/Code_Gym/Colle_Framwork/Colle_Framwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/ConvertStack/ConvertStack.iml" filepath="$PROJECT_DIR$/Code_Gym/ConvertStack/ConvertStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/DSA_Stack_Queue/DSA_Stack_Queue.iml" filepath="$PROJECT_DIR$/Code_Gym/DSA_Stack_Queue/DSA_Stack_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/MVC/MVC.iml" filepath="$PROJECT_DIR$/Code_Gym/MVC/MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/ReverseStack/ReverseStack.iml" filepath="$PROJECT_DIR$/Code_Gym/ReverseStack/ReverseStack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/Tim_kiem_chuoi_tang_dan/Tim_kiem_chuoi_tang_dan.iml" filepath="$PROJECT_DIR$/Code_Gym/Tim_kiem_chuoi_tang_dan/Tim_kiem_chuoi_tang_dan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/ss14_Thuat_Toan/ss14_Thuat_Toan.iml" filepath="$PROJECT_DIR$/Code_Gym/ss14_Thuat_Toan/ss14_Thuat_Toan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/ss15/ss15.iml" filepath="$PROJECT_DIR$/Code_Gym/ss15/ss15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/ss16/ss16.iml" filepath="$PROJECT_DIR$/Code_Gym/ss16/ss16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/ss17/ss17.iml" filepath="$PROJECT_DIR$/Code_Gym/ss17/ss17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code_Gym/ss19/ss19.iml" filepath="$PROJECT_DIR$/Code_Gym/ss19/ss19.iml" />
+    </modules>
+  </component>
+</project>
